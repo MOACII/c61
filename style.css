@@ -1,0 +1,18 @@
+img {
+    width: 300;
+    height: 300;
+}
+body {
+    text-align: center;
+}
+#app {
+    background-color: #a1dded;
+}
+
+#game {
+    background-color: #bda1ed;
+}
+
+#chatbot {
+    background-color: #aef5cd;
+}
